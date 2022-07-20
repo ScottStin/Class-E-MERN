@@ -1,0 +1,6 @@
+#registerCard:hover{   
+    cursor: pointer;  
+    transform:scale(1.1) translateX(-5em);
+    box-shadow: 0 5em 5em -5em;
+    transition: filter 500ms, Transform 500ms, box-shadow 500ms, color 500ms ease-in-out;
+    }
